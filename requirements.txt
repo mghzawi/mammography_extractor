@@ -1,0 +1,8 @@
+pandas
+tqdm
+requests
+logging
+pandas
+tqdm
+requests
+logging
